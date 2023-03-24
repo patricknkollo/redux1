@@ -1,0 +1,16 @@
+.left-head {
+  background-color: aqua;
+  display: flex;
+}
+
+.typo-left-head {
+  width: 300px;
+  background-color: chartreuse;
+  margin-left: 1px;
+  align-items: center;
+  align-content: center;
+}
+
+.typo-left-head-1 {
+  align-content: flex-start;
+}
